@@ -12,6 +12,10 @@ public class Calculator {
         return str.length();
     }
 
+    /**
+     * main method added
+     * @param args
+     */
     public static void main(String[] args) {
         System.out.println("GIT class");
     }
